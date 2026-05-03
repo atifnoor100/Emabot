@@ -1,4 +1,4 @@
 ccxt
-pandas-ta
+pandas
 requests
 pytz
